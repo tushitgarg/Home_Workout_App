@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/bmi_calc"
+        android:icon="@drawable/ic_accessibility_black_24dp"
+        android:title="BMI Calculator"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/feedback"
+        android:icon="@drawable/ic_feedback_black_24dp"
+        android:title="Feedback"
+        />
+</menu>

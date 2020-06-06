@@ -1,0 +1,586 @@
+<resources>
+    <string name="app_name">Home Workout</string>
+
+    <string-array name="male_selection_spinner">
+        <!--- <item>Select from here</item> -->
+        <item>\t\t\Select\t\t</item>
+        <item>\t\tBeginner</item>
+        <item>\t\tIntermediate</item>
+        <item>\t\tExpert</item>
+    </string-array>
+
+    <string name="splash_screen">Home \n Workout
+    </string>
+
+    <string name="male_abs_easy_hindupushup"> Hindu Push-ups </string>
+    <string name="male_abs_easy_hipraises">Hip-raises</string>
+    <string name="male_abs_easy_inchworm">Inchworm</string>
+    <string name="male_abs_easy_plank">Planks</string>
+    <string name="male_abs_medium_alternate_heal_touches">Alternate Heel Touches</string>
+    <string name="male_abs_medium_bench_leg_pull_in">Bench Leg Pull-in</string>
+    <string name="male_abs_medium_jackknife_situps">Jackknife Sit-ups</string>
+    <string name="male_abs_medium_sideplank">Side Planks</string>
+    <string name="male_abs_hard_dumbbell_side_bend">Side Bend</string>
+    <string name="male_abs_hard_russian_twist">Russian twist</string>
+    <string name="male_up_easy_tricep">Triceps</string>
+    <string name="male_up_easy_bicep_curl">Bicep Curl</string>
+    <string name="male_up_easy_triceps_extension">Tricep Extensio</string>
+    <string name="male_up_medium_close_grip_pull_up">Close Grip Pull-ups</string>
+    <string name="male_up_hard_hammer_grip_pull_up_n">Hammer Grip Pull-ups</string>
+    <string name="male_up_hard_wide_grip_pull_ups">Wide Grip Pull-ups</string>
+    <string name="male_fb_easy_bodyweight_squats">Bodyweight Squats</string>
+    <string name="male_fb_easy_knee_push_ups">Knee Push-ups</string>
+    <string name="male_fb_easy_planks_n">Plankns</string>
+    <string name="male_fb_easy_jumping_jacks">Jumping Jacks</string>
+    <string name="male_fb_medium_crunches">Crunches</string>
+    <string name="male_fb_medium_donkey_kicks">Donkey Kicks</string>
+    <string name="male_fb_medium_mountain_climbers">Mountain Climbers</string>
+    <string name="male_fb_hard_burpees">Burpees</string>
+    <string name="male_fb_hard_clap_push_ups">Clap Push-ups</string>
+    <string name="male_fb_hard_split_alternating_squat_jumps">Alternating Squat Jumps</string>
+    <string name="male_lb_easy_calf_raises">Calf Raises</string>
+    <string name="male_lb_easy_wall_sit">Wall Sits</string>
+    <string name="male_lb_easy_pilates">Pilates</string>
+    <string name="male_lb_medium_jump_squats">Jump Squats</string>
+    <string name="male_lb_medium_mountain_climbers">Mountain Climbers</string>
+    <string name="male_lb_medium_walking_lunge">Walking Lunge</string>
+    <string name="male_lb_hard_dumbell_squats">Squats</string>
+    <string name="male_lb_hard_lunge_twist">Lunge Twists</string>
+
+    <string name="abs_easy_hindupushup">
+        Steps: \n
+        1. Stretch before doing the Hindu push-up.
+        2. Get into a starting push-up position.\n
+        3. Raise your backside into the air.
+        4. Inhale deeply.
+        5. Bend your elbows and lower your chest.
+        6. Arch your lower and upper back.
+        7. Straighten your arms and look up.
+        8. Return to the starting position.
+        9. Repeat.
+
+        It targets the same muscles as a regular pushup: the chest, triceps, biceps, shoulders, and the core.
+    </string>
+
+    <string name="abs_easy_hipraises">
+        Hot to:
+        1. Lie on your back with your right knee bent and right foot flat on the floor. \n
+        2. Raise your left leg so it is in line with your right thigh.\n
+        3. Push your hips up, keeping your left leg elevated.\n
+        4. Pause and slowly return to the starting position.\n
+        5. Switch legs and repeat.\n
+
+        By using the hip raise, you can activate your glutes once again, and build more muscle all over.\n
+    </string>
+
+    <string name="abs_easy_inchworm">
+        Steps: \n
+        1. Stand tall, your feet roughly hip-distance apart.\n
+        2. Enable your hands to reach the ground.\n
+        3. Place your hands on the floor in front of your feet. Move forward while allowing your heels to lift off the floor.\n
+        4. Keep your legs relatively straight and begin walking your feet forward, one at a time, toward your hands.\n
+        5. Stop when your feet are as close to your hands as you can comfortably bring them.\n
+        6. Return to standing by slowly rolling your back up from the hips, straightening one vertebra at a time.\n
+
+        The inchworm exercise helps strengthen the muscles of your anterior chain while stretching the muscles of your posterior chain.
+    </string>
+
+    <string name="abs_easy_plank">
+        Steps: \n
+        1. Plant hands directly under shoulders (slightly wider than shoulder width). \n
+        2. Ground toes into the floor and squeeze glutes to stabilize your body.\n
+        3. Neutralize your neck and spine by looking at a spot on the floor about a foot beyond your hands.\n
+        4. Hold the position for 20 seconds. As you get more comfortable with the move, hold your plank for as long as possible without compromising your form or breath.\n
+
+        Planks work your core, that means they work basically the whole body, from your pelvic girdle to your shoulder girdle as well as your legs.\n
+    </string>
+
+    <string name="abs_medium_alternate_heal_touches">
+        Steps: \n
+        1. Lay down on your back on and place your feet flat and widen then slightly more than your shoulder-apart-width. \n
+        2. Extend your arms towards the downward direction by the side of the body with your palms facing inwards. \n
+        3. While exhaling your breath, crunch your abs in the forward right direction. \n
+        4. Now while you’re inhaling your breath, leave the right ankle you caught hold of with your right arm and very slowly move back to the starting position. \n
+        5. Repeat the same on other side. \n
+
+        Apart from a floor to lay down on, Alternate Heel Touches exercise does not require any equipment.
+    </string>
+
+    <string name="abs_medium_bench_leg_pull_in">
+        Steps: \n
+        1. Sit on the bench with your legs fully extended in front of you angled towards the floor slightly.\n
+        2. Grip the sides of the bench for stability.\n
+        3. Leaning back to about a 45-degree angle from the bench.\n
+        4. Pull your knees in toward you at the same time moving your torso towards them.\n
+        5. Make sure you exhale as you perform this part of the movement.\n
+        6. Hold for a count of one.\n
+        7. Return to the start position by extending your legs out and relaxing your abdominal muscles.\n
+
+        It targets your abdominal muscles and provide minor tension to your hip flexors.
+    </string>
+
+    <string name="abs_medium_jackknife_situps">
+        Steps: \n
+        1. Lie flat on the floor with your arms and legs extended. \n
+        2. Take a deep breath before you begin. \n
+        3. Exhale and contract your abs, raising both arms and legs.\n
+        4. Hold yourself in this jack knife position for about 3 seconds.\n
+        5. Inhale as you lower your arms and legs slowly to the starting position.\n
+        6. Repeat 10-12 reps per set and aim to complete 2-3 sets.\n
+
+        Jackknife exercises are designed to strengthen the upper and lower abdominal muscles.
+    </string>
+
+    <string name="abs_medium_sideplank">
+       Steps: \n
+        1. Start on your side with your feet together and one forearm directly below your shoulder. \n
+        2. Contract your core and raise your hips until your body is in a straight line from head to feet. \n
+        3. Hold the position without letting your hips drop for the allotted time for each set.\n
+        4. Then repeat on the other side.\n
+
+        The side plank is a great exercise for strengthening the oblique abdominal muscles.
+    </string>
+
+    <string name="abs_hard_dumbbell_side_bend">
+        Steps: \n
+        1. Stand with feet approximately shoulder width apart.\n
+        2. Slowly lean to the right and point where a gentle stretch is felt along the left side.\n
+        3. Pause for a second, and then in one slow movement and keeping yourself from twisting.\n
+        4. Repeat on Left side.\n
+
+        Side bends help to increase both strength and flexibility of the low back and the abdominals, supporting the spine and helping to improve posture.
+    </string>
+
+    <string name="abs_hard_russian_twist">
+        Steps: \n
+        1. Sit on your sit bones as you lift your feet from the floor, keeping your knees bent.\n
+        2. Elongate and straighten your spine at a 45-degree angle from the floor, creating a V shape with your torso and thighs.\n
+        3. Reach your arms straight out in front, interlacing your fingers or clasping your hands together.\n
+        4. Use your abdominals to twist to the right, then back to center, and then to the left.\n
+        5. This is 1 repetition. Do 2 to 3 sets of 8 to 16 repetitions.\n
+
+        The Russian twist is a simple and effective way to tone your core, shoulders, and hips.
+    </string>
+
+    <string name="up_easy_tricep">
+        Steps: \n
+        1. Sit on the edge of the chair and grip the edge next to your hips. Your fingers should be pointed at your feet.\n
+        2. Press into your palms to lift your body and slide forward just far enough that your behind clears the edge of the chair.\n
+        3. Lower yourself until your elbows are bent between 45 and 90 degrees.\n
+        4. Slowly push yourself back up to the start position and repeat.\n
+        5. Begin with 10 repetitions and work up to 25 repetitions over several weeks.\n
+
+        Working out your triceps helps to build upper body strength and is an essential part of any strength training routine. \n
+    </string>
+    
+    <string name="up_easy_triceps_extension">
+        Steps: \n
+        1. Stands with your feet shoulder width apart.\n
+        2. Grasp the weight with both hands and place behind your head, aiming for between your shoulder blades. \n
+        3. Lift your arms so they’re straight above your head, making sure your elbows don’t flare outward too much. \n
+        4. Aim for 4 sets of 8 -12 reps. \n
+
+        Tricep extensions are an excellent exercise to build and shape the upper posterior arm muscles.
+    </string>
+
+    <string name="up_medium_close_grip_pull_up">
+        Steps: \n
+        1. Using a pronated grip, grasp the pull bar with a shoulder width grip.\n
+        2. Take a deep breath, squeeze your glutes and brace your abs.\n
+        3. Depress the shoulder blades and then drive the elbows straight down to the floor while activating the lats.\n
+        4. Pull your chin towards the bar until the lats are fully contracted.\n
+        5. Slowly lower yourself back to the start position and repeat for the assigned number of repetitions.\n
+
+        The closer grip also allows you to recruit your biceps and chest muscles more than the wide grip.
+    </string>
+
+    <string name="up_hard_hammer_grip_pull_up_n">
+        Steps: \n
+        1. Leap up and grip the bar with your hands shoulder width apart and your palms facing away from you.\n
+        2. Hang with your arms fully extended, you can bend your legs at the knee if they’re dragging on the ground.\n
+        3. Keep your shoulders back and your core engaged throughout. Then pull up.\n
+        4. Move slowly upward until your chin is above the bar, then equally slowly downward until your arms are extended again.\n
+        5. Aim for 10 pull-ups, but be prepared to fall short.\n
+
+        It is one of the quickest and easiest ways to leave your entire upper body quivering with fatigue when training at home because a doorframe pull-up bar is the only equipment you need.
+    </string>
+
+    <string name="up_hard_wide_grip_pull_ups">
+        Steps: \n
+        1. Reach up and grab the bar with each hand. Your thumbs should be pointing toward each other, and your grip should be wider than your body.\n
+        2. When positioned correctly, your arms and torso should form a ‘Y.’ Each arm should be 30 to 45 degrees from your body, but no more than a 45-degree angle. \n
+        3. Look straight ahead and pull your body upwards towards the bar.\n
+        4. Pause, then lower yourself back down to the original position.\n
+
+        The wide-grip pullup is an upper-body strength movement that targets your back, chest, shoulders, and arms. It also gives your core muscles a pretty fantastic workout.
+    </string>
+
+    <string name="fb_easy_bodyweight_squats">
+        Steps: \n
+        1. Pointing your toes slightly outwards helps is recommended . Start by putting your feet shoulder-width apart and pointed about 15 degrees outwards.\n
+        2. Tense your abs like someone is about to punch you.\n
+        3. Look straight ahead and stand tall!\n
+
+        Squats, and all of their variations, are a great exercise for the whole body.
+    </string>
+    
+    <string name="fb_easy_knee_push_ups">
+        Steps: \n
+        1. Begin in a hands and knees position with your gaze at the floor.\n
+        2. Place your hands on the ground on either side of your shoulders. Your knees should be at a comfortable distance apart.\n
+        3. Inhale as you slowly lower your elbows to bring your chest toward the ground. Be sure to keep your core muscles contracted.\n
+        4. Pause for a second in the lowered position — your chin may lightly touch the ground.\n
+        5. Exhale as you push up from the ground to your starting position.\n
+
+        Knee push-ups are a valuable alternative to toe push-ups in order to give your chest, shoulders and arms a quality workout.
+    </string>
+    
+    <string name="fb_easy_planks_n">
+        Steps: \n
+        1. Plant hands directly under shoulders (slightly wider than shoulder width).
+        2. Ground toes into the floor and squeeze glutes to stabilize your body. \n
+        3. Neutralize your neck and spine by looking at a spot on the floor about a foot beyond your hands.\n
+        4. Hold the position for 20 seconds. As you get more comfortable with the move, hold your plank for as long as possible without compromising your form or breath.\n
+
+        Planks work your core, that means they work basically the whole body, from your pelvic girdle to your shoulder girdle as well as your legs.
+    </string>
+    
+    <string name="fb_easy_jumping_jacks">
+        Jumping jacks are an efficient total-body workout that you can do almost anywhere. This exercise is part of what is called plyometrics, or jump training. Plyometrics is a combination of aerobic exercise and resistance work. This type of exercise works your heart, lungs, and muscles at the same time.
+    </string>
+
+    <string name="fb_medium_crunches">
+        Steps: \n
+        1. Lie down on your back. Plant your feet on the floor, hip-width apart. \n
+        2. Bend your knees and place your arms across your chest. Contract your abs and inhale.\n
+        3. Exhale and lift your upper body, keeping your head and neck relaxed.\n
+        4. Inhale and return to the starting position.\n
+
+        Like situps, crunches help you build muscle. But unlike situps, they work only the abdominal muscles.
+    </string>
+
+    <string name="fb_medium_donkey_kicks">
+        Steps: \n
+        1. Position yourself on all fours on a mat. \n
+        2. Position your hands underneath your shoulders and place your knees under your hips. \n
+        3. Keep your right knee bent at 90 degrees and flex the foot as you lift the knee until it is level with the hip.\n
+        4. Lower the knee without touching the floor and repeat the lift.\n
+        5. Once you’ve completed the reps on the right leg, switch legs.\n
+
+        Donkey kick is a lower body exercise that tones the glutes and isometrically strengthens the hamstrings.
+    </string>
+
+    <string name="fb_medium_mountain_climbers">
+        Steps: \n
+        1. Put both hands and knees on the floor.\n
+        2. Place your right foot near your right hand and extend your left leg behind you.\n
+        3. In one smooth motion, switch your legs, keeping your arms in the same position.\n
+        4. Switch your legs back and forth twice, such that your right leg is again close to your right hand.\n
+
+        Mountain climbers are great for building cardio endurance, core strength, and agility.
+    </string>
+
+    <string name="fb_hard_burpees">
+        Steps: \n
+        1. Start in a squat position with your knees bent, back straight, and your feet about shoulder-width apart and lower your hand inside your feets.\n
+        2. Kick your feet back so you’re in a pushup position.\n
+        3. Keeping your body straight from head to heels, do one pushup. Remember not to let your back sag or to stick your butt in the air.\n
+        4. Do a frog kick by jumping your feet back to their starting position.\n
+        5. Stand and reach your arms over your head.\n
+        6. Jump quickly into the air so you land back where you started.\n
+
+        The burpee works your arms, back, chest, core, glutes and legs.
+    </string>
+
+    <string name="fb_hard_clap_push_ups">
+        Steps: \n
+        1. Lower yourself until your chest is just above the floor.\n
+        2. Leave the floor pushing.\n
+        3. Quickly clap and reposition your hands.\n
+        4. Repeat for 30 seconds.\n
+
+        The clap push-up enhances core stability, essential to your strong stance in the boxing ring.
+    </string>
+
+    <string name="fb_hard_split_alternating_squat_jumps">
+        Steps: \n
+        1. Stand upright and clasp your hands behind your head.\n
+        2. Take one step forward into a split stance.\n
+        3. Drop into a split squat so that your leading thigh is parallel to the floor.\n
+        4. Push up from the balls of your feet rapidly to jump up, jumping as high as you can and.\n
+        5. switching legs midair.\n
+
+        Split alternating squat jumps targets quadriceps and also involves abs and calves and hamstrings.
+    </string>
+
+    <string name="lb_easy_calf_raises">
+        Steps: \n
+        1. Start in a standing position with your feet at hip width and your arms by your sides.\n
+        2. Keep a straight back and good upright posture, looking straight ahead.\n
+        3.From here, contract your calf muscles, hamstrings and glutes so that you raise up on to your toes by lifting your heels up as high as you can.\n
+
+        The standing calf raise exercise strengthens the muscles in your calves.
+    </string>
+    
+    <string name="lb_easy_wall_sit">
+        Steps: \n
+        1. Lean back against the wall with your torso, with your feet shoulder-width apart.\n
+        2. Then press back and slide down the wall until your thighs are parallel with the ground.\n
+        3. Your knees should be above your ankles and bent at right-angles.\n
+        4. Keep your head, shoulders and upper back against the wall and hold the position.\n
+
+        Wall sit exercises are great for sculpting the thighs, hips, calves, and lower abs.
+    </string>
+
+    <string name="lb_medium_jump_squats">
+        Steps: \n
+        1. Pointing your toes slightly outwards helps is recommended . Start by putting your feet shoulder-width apart and pointed about 15 degrees outwards.\n
+        2. Tense your abs like someone is about to punch you.\n
+        3. Look straight ahead and stand tall!\n
+
+        Squats, and all of their variations, are a great exercise for the whole body.
+    </string>
+
+    <string name="lb_medium_mountain_climbers">
+        Steps: \n
+        1. Put both hands and knees on the floor.\n
+        2. Place your right foot near your right hand and extend your left leg behind you.\n
+        3. In one smooth motion, switch your legs, keeping your arms in the same position.\n
+        4. Switch your legs back and forth twice, such that your right leg is again close to your right hand.\n
+
+        Mountain climbers are great for building cardio endurance, core strength, and agility.
+    </string>
+
+    <string name="lb_medium_walking_lunge">
+        Steps: \n
+        1. Stand upright, feet together, and take a controlled step forward with your right leg.\n
+        2. Lowering your hips toward the floor by bending both knees to 90-degree angles.\n
+        3. The back knee should point toward but not touch the ground, and your front knee should be directly over the ankle.\n
+
+        Walking lunges can help strengthen the lower body. They can also help stretch out the hamstring and glutes.
+    </string>
+
+    <string name="lb_hard_dumbell_squats">
+         Steps: \n
+            1. Pointing your toes slightly outwards helps is recommended . Start by putting your feet shoulder-width apart and pointed about 15 degrees outwards.\n
+            2. Tense your abs like someone is about to punch you.\n
+            3. Look straight ahead and stand tall!\n
+
+        Squats, and all of their variations, are a great exercise for the whole body.
+    </string>
+
+    <string name="lb_hard_lunge_twist">
+        Steps: \n
+        1. Start standing with your feet hip-width apart and arms at shoulder-height, elbows bent to form a goal post around your head.\n
+        2. Take a big step forward with your right foot and bend your knees to lower into lunge while twisting your torso over your right leg.\n
+        3. Return to standing.\n
+
+        The lunge with a twist exercise is a great core exercise that builds lower body strength.
+    </string>
+    
+    
+    <string name="fm_abs_easy_abdominal_crunches">Abdominal Crunches</string>
+    <string name="fm_abs_easy_leg_raises">Leg Raises</string>
+    <string name="fm_abs_easy_plank">Plank</string>
+    <string name="fm_abs_easy_sit_ups">Sit Ups</string>
+    <string name="fm_abs_medium_abdominal_crunches">Abdominal Crunches</string>
+    <string name="fm_abs_medium_plank">Plank</string>
+    <string name="fm_abs_medium_reverse_crunches">Reverse Crunches</string>
+    <string name="fm_abs_medium_side_plank_left">Side Plank</string>
+    <string name="fm_abs_hard_abdominal_crunches">Abdominal Crunches</string>
+    <string name="fm_abs_hard_cobras">Cobras</string>
+    <string name="fm_fb_easy_abdominal_crunches">Abdominal Crunches</string>
+    <string name="fm_fb_easy_jumping_jack">Jumping Jack</string>
+    <string name="fm_fb_easy_plank">Plank</string>
+    <string name="fm_fb_easy_set_up_onto_chair">Set up Onto Chair</string>
+    <string name="fm_fb_medium_crusty_lunges">Crusty Lunges</string>
+    <string name="fm_fb_medium_knee_pus_ups">Knee Push-ups</string>
+    <string name="fm_fb_medium_side_plank_left">Side Plank </string>
+    <string name="fm_fb_hard_stepping">Stepping</string>
+    <string name="fm_fb_hard_sideplankleft">Side Plank</string>
+    <string name="fm_fb_medium_knee_push_ups">Knee Push-ups</string>
+    <string name="fm_fb_hard_step_up_onto_chair">Set up Onto Chair</string>
+    <string name="fm_lb_easy_side_lying_leg_lift_up_left">Side Lying Leg Lift Up Left </string>
+    <string name="fm_lb_easy_plie_squats">Plie Squats</string>
+    <string name="fm_lb_easy_wall_sit">Wall Sits</string>
+    <string name="fm_lb_medium_left_lunge_knee_hops">Knee Lunge Hops</string>
+    <string name="fm_lb_medium_wall_sit">Wall Sits</string>
+    <string name="fm_lb_medium_sumo_squat_calf_raises">Sumo Squat Calf Raises</string>
+    <string name="fm_lb_hard_bulgarian_squat">Bulgarian Squats</string>
+    <string name="fm_lb_hard_crusty_lunges">Crusty Lunges</string>
+    <string name="fm_up_easy_plank">Plank</string>
+    <string name="fm_up_easy_push_ups">Push-ups</string>
+    <string name="fm_up_easy_tricep_dips">Tricep Dips</string>
+    <string name="fm_up_medium_arm_circles">Arm Circles-</string>
+    <string name="fm_up_medium_push_ups">Push-Ups</string>
+    <string name="fm_up_tricep_dips">Tricep Dips</string>
+    <string name="fm_up_hard_arm_circles">Arm Circles-</string>
+    <string name="fm_up_hard_tricep_dips">Tricep Dips</string>
+    <string name="fm_up_hard_plank">Plank</string>
+    <string name="fm_up_hard_mountain_climber">Mountain Climbers</string>
+
+    <string name="abdominal_crunches">
+        Steps: \n
+        1. Lay flat on the floor.Place your hands loosely behind or beside your head\n
+        2. Bend your knees and place your feet flat on the floor.\n
+        3. Exhale while you curl your body forward off the floor making sure your shoulder blades come off the floor.\n
+        4. Hold for one second and then slowly return to the starting position, inhaling while you return to the floor.\n
+    </string>
+    <string name="lunge_knee_hops">
+        Steps: \n
+        1. Engage your abdominal muscles, straighten your back and look straight ahead.\n
+        2. Maintain this position as you lower your hips toward the floor by bending your legs to 90°.\n
+        3. Continue down until your left knee nears the floor, then lift and bring your left knee close to your chest as you hop on the right foot.\n
+    </string>
+    <string name="push_ups">
+        Steps: \n
+        1. Begin with your chest and stomach flat on the floor.\n
+        2. Your legs should be straight out behind you and your palms should be at chest level with the arms bent out at a 45-degree angle.\n
+        3. Exhale as you push from your hands and heels, bringing your torso, chest, and thighs off the ground.\n
+        4. Inhale as you slowly lower back to your starting position.\n
+    </string>
+
+    <string name="leg_raises">
+        Steps: \n
+        1. Lie on your back,legs straight and together.\n
+        2. Keep your legs straight and lift them all the way up to the ceiling until your butt comes off the floor.\n
+        3. Slowly,lower your legs back down just above the floor.Hold for a minute.\n
+        4. Raise your legs back up.\n
+    </string>
+    <string name="jumping_jack">
+        Steps: \n
+        1. Jump up, widen your leg, either hands up or in a clapping position.\n
+        2. Return back and repeat.\n
+    </string>
+    <string name="plank">
+        Steps: \n
+        1. Face down with your forearms and toes on the floor.\n
+        2. Place elbows directly under your shoulders and your forearms  facing forward.\n
+        3. Your  head is relaxed and you should be looking at the floor.\n
+        4. Keep your torso straight and rigid and your body in a straight line from ears to toes with no sagging or bending.\n
+    </string>
+    
+    <string name="step_up_onto_chair">
+        Steps: \n
+        1. Walkup to the chair with a chair-sit facing in front of you.You should be 2 feet away from the chair.\n
+        2. Next, take your right foot, step up and continue looking all the straight ahead and then stay back down.\n
+        3. Similarly, switch legs, step back up and come down.\n
+    </string>
+
+    <string name="crusty_lunges">
+        Steps: \n
+        1. Start from standing, and step your left leg behind you and to the right so your thighs cross, bending both knees as if you were curtsying.\n
+        2. Your front knee should be aligned with your front ankle.\n
+        3. Again return to standing position.\n
+    </string>
+
+    <string name="mountain_climber">
+        Steps: \n
+        1. Get into a plank position, making sure to distribute your weight evenly between your hands and your toes.\n
+        2. Check your form—your hands should be about shoulder-width apart, back flat, abs engaged, and head in alignment.\n
+        3. Pull your right knee into your chest as far as you can.\n
+        4. Then switch, pulling that knee out and bringing the other knee in.\n
+        5. Keeping your hips down, run your knees in and out as far and as fast as you can. Alternate inhaling and exhaling with each leg change\n
+    </string>
+
+    <string name="tricep_dips">
+        Steps: \n
+        1. Sit on the edge of the chair and grip the edge next to your hips. Your fingers should be pointed at your feet. Your legs are extended and your feet should be about hip-width apart with the heels touching the ground. Look straight ahead with your chin up.\n
+        2. Press into your palms to lift your body and slide forward just far enough that your behind clears the edge of the chair.\n
+        3. Lower yourself until your elbows are bent between 45 and 90 degrees.\n
+        4. Slowly push yourself back up to the start position and repeat. Control the movement throughout the range of motion.\n
+        5. Begin with 10 repetitions and work up to 25 repetitions over several weeks\n
+    </string>
+
+    <string name="arm_circles">
+        Steps: \n
+        1. Stand with your feet shoulder-width apart and extend your arms parallel to the floor. \n
+        2. Circle your arms forward using small controlled motions, gradually making the circles bigger until you feel a stretch in your triceps. \n
+        3. Reverse the direction of the circles after about 10 seconds.\n
+    </string>
+
+    <string name="plie_squats">
+        Steps: \n
+        1. Stand with your feet wider than shoulder-width apart, arms at your sides, and point your toes out at an angle.\n
+        2. Squat down, bending your knees until your thighs are parallel with the ground. As you lower your body, raise your arms above your head.\n
+        3. Pause, then straighten your legs and return your arms to your sides.\n
+    </string>
+
+    <string name="wall_sit">
+        Steps: \n
+        1. Lean against the wall with your feet shoulder-width apart and firmly planted on the ground.\n
+        2. Put your feet forward. Go down as you do so, and keep leaning against the wall. Exhale and slowly slide down into the perfect wall sit position and raise your arms until they are at level with your shoulders and parallel to the floor.\n
+        3. Hold this position for a second and then inhale and slide up by straightening your arms. Simultaneously, lower your arms and come back to the starting position.\n
+    </string>
+
+    <string name="bulgarian_squat">
+        Steps: \n
+        1. Stand 2 to 3 feet in front of a knee-high platform. Extend your right leg behind you and rest your toes on the bench.Square your hips and shoulders.\n
+        2. Keeping your torso upright, slowly lower your right knee toward the floor. Your front knee\n
+            will form approximately a 90-degree angle.\n
+        3. Reverse the move and return to the starting position.\n
+    </string>
+
+    <string name="sumo_squat_calf_raises">
+        Steps: \n
+        1.Stand with your feet about three to four feet apart, toes turned out. Bring your hands together in front of your chest, and squat down so your thighs are parallel with the floor, knees over the ankles.\n
+        2. Raise your left heel off the floor, and begin to pulse the hips up and down, isolating the left calf.\n
+        3. Continue pu*lsing for 30 seconds, and then switch sides for another 30 seconds.\n
+        4. Repeat two more times on each side.\n
+    </string>
+
+    <string name="side_lying_leg_lift_up">
+        Steps: \n
+        1. Extend your legs.Place your top hand on the ground in front of your abs and your supporting arm under your head.\n
+        2. Lift your top leg up about six to eight inches from the floor. Holding your leg at the highest point of your lift, draw one-inch circles with your heel for 20 reps.\n
+        3. Keeping your top leg lifted, bend and straighten your knee. Do this 20 times while not letting your thigh lower.\n
+    </string>
+
+    <string name="bottom_leg_lift">
+        Steps: \n
+        1. Lie on your back, legs straight and together.\n
+        2. Keep your legs straight and lift them all the way up to the ceiling until your butt comes off the floor.\n
+        3. Slowly lower your legs back down till they’re just above the floor. Hold for a moment.\n
+        4. Raise your legs back up.\n
+    </string>
+
+    <string name="knee_push_ups">
+        Steps: \n
+        1. Get on your hand and knees.\n
+        2. Crisscross your calves and raise your feet up.\n
+        3. Lower the upper part of your body to the ground until your elbows are bent to a 90-degree angle.\n
+        4. Slowly push back up to the starting position.\n
+    </string>
+
+    <string name="leg_raise">
+        Steps: \n
+        1. Lie on your back,legs straight and together.\n
+        2. Keep your legs straight and lift them all the way up to the ceiling until your butt comes off the floor.\n
+        3. Slowly,lower your legs back down just above the floor.Hold for a minute.\n
+        4. Raise your legs back up.\n
+    </string>
+    
+    <string name="cobras">
+        Steps: \n
+        1. Place your hands palms down on the ground beneath your shoulders.\n
+        2. Lift your chest up off the ground by straightening your arms.\n
+        3. Gaze upwards and keep your abdominals engaged.\n
+    </string>
+
+    <string name="reverse_crunches">
+        Steps: \n
+        1. Lie face up on the floor with your palms facing down. Bend your hips and knees 90 degrees. Raise your hips off the floor and crunch them inward. Pause, and then slowly lower your legs until your heels nearly touch the floor.\n
+        2. Your knees should move toward your chest. Your hips and lower back should raise up off the floor. \n
+    </string>
+
+    <string name="sit_ups">
+        Steps: \n
+        1. Start by lying on your back with your knees bent.\n
+        2. Put your fingertips on the back of your ears.\n
+        3. Lift your torso up as close to your thighs as possible.\n
+        4. Lower your torso down to the floor so you’re back in the starting position.\n
+        5. Do 3 sets of 10-15 reps.\n
+
+    </string>
+
+</resources>
